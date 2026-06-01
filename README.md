@@ -10,8 +10,7 @@
   - Generate data reports using Tableau.
  
 - Grading Criteria
-
-  - Your project will be evaluated according to the following grading criteria: 
+- Your project will be evaluated according to the following grading criteria: 
   - Was the GitHub repo successfully created?
   - Is the appropriate project found in the GitHub repo?
   - Does it include an appropriate ER diagram showing the connections between the tables?
