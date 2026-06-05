@@ -20,11 +20,7 @@
   - Was the AddBooking() procedure properly implemented?
   - Was the CancelBooking() procedure properly implemented?
  
-- Your project is expected to include the following items:
-  - Relevant diagrams and screenshots in PNG format.
-  - The data model you produced in MySQL Workbench.
-  - The SQL file of the Little Lemon database schema.
-  - The workbook that includes all worksheets and dashboards.
-  - Create the following stored procedures: GetMaxQuantity(), ManageBooking(), UpdateBooking(), AddBooking(), and CancelBooking().
- 
+ ### My Project
+
+
   
